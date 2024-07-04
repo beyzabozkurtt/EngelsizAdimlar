@@ -1,16 +1,30 @@
-# mobilapp2
+# EngelsizAdimlar
 
-A new Flutter project.
+Bu proje, engelliler için kolaylaştırılmış erişim sağlamayı hedefleyen bir Flutter uygulamasıdır.
 
-## Getting Started
+## Başlarken
 
-This project is a starting point for a Flutter application.
+Bu proje, Flutter uygulamaları geliştirmeye yeni başlayanlar için bir başlangıç noktasıdır.
 
-A few resources to get you started if this is your first Flutter project:
+### Başlangıç Adımları
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Flutter Kurulumu**: Eğer bilgisayarınızda Flutter yüklü değilse, [Flutter'ın resmi sitesinden](https://flutter.dev/docs/get-started/install) kurulumu yapın.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Projeyi Çalıştırma**:
+   - Terminal veya komut istemcisinde projenizin bulunduğu dizine gidin.
+   - Emülatörde veya fiziksel cihazda uygulamayı başlatmak için `flutter run` komutunu kullanın.
+
+3. **Dokümantasyon ve Yardım**:
+   - [Flutter Dokümantasyonu](https://docs.flutter.dev/): Flutter geliştirme hakkında örnekler, rehberler ve API referanslarına ulaşabilirsiniz.
+
+### Yardım ve Destek
+
+- Eğer projeyi çalıştırma veya geliştirme sürecinde yardıma ihtiyacınız olursa, [Flutter Dokümantasyonu](https://docs.flutter.dev/) size yol gösterebilir.
+
+## Katkıda Bulunma
+
+- Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz. GitHub üzerinden öneri göndererek veya pull request açarak projeye katkı sağlayabilirsiniz.
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
